@@ -1,5 +1,8 @@
 <h2> Analiza-sentyment-w-polskich-politykow<h2>
-  ![image](https://user-images.githubusercontent.com/98030977/162335938-42b56149-a47b-4513-a972-e0a01652993a.png)
+
+  
+  ![image](https://user-images.githubusercontent.com/98030977/162336008-d8537923-33e7-416b-ae55-4aa790e41151.png)
+
 
   <h3>Nie udawajmy, każdy jest ciekawy czy K.Pawłowicz czy J.K.Mikke wygra wyścig o najbardziej wrogiego tweeta!Teraz mozecie sie przekonac, który z wybranych przeze mnie polityków(lub wybrac swojego), wygra ten wyścig.<h3>
   
